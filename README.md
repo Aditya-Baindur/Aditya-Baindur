@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-Baindur
 - 👀 I’m interested in Computer programing, Robotics, Swimming, Exploration among others!
-- 🌱 I’m currently learning Python & Python with turtle
+- 🌱 I’m currently learning bash
 - 📫 How to reach me : You can email me, adityabaindur@icloud.com 😄
 
 <!---
